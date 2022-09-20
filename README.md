@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 I'm currently learning Swift and iOS.
 
-📋 Portfolio 👉 [Notion](https://www.notion.so/2560100898a34088984578542335f133)👈
+<!--📋 Portfolio 👉 [Notion](https://www.notion.so/2560100898a34088984578542335f133)👈 -->
+
+<br/>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skyqnaqna)](https://solved.ac/skyqnaqna) 
